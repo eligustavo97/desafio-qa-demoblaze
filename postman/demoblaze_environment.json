@@ -1,0 +1,25 @@
+{
+  "id": "demoblaze-env",
+  "name": "DemoBlaze Environment",
+  "values": [
+    {
+      "key": "baseUrl",
+      "value": "https://api.demoblaze.com",
+      "type": "default",
+      "enabled": true
+    },
+    {
+      "key": "username",
+      "value": "qa_user_test",
+      "type": "default",
+      "enabled": true
+    },
+    {
+      "key": "password",
+      "value": "senha123",
+      "type": "default",
+      "enabled": true
+    }
+  ],
+  "_postman_variable_scope": "environment"
+}
